@@ -1,9 +1,5 @@
 class Solution:
-    # @param A : integer
-    # @param B : integer
-    # @return an integer
     def solve(self,row, column):
-
 
         topLeft = min(row, column) - 1
 
