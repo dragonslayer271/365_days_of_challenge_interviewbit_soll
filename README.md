@@ -1,2 +1,24 @@
 # 365_days_of_challenge_interviewbit_soll
-All the InterviewBit Questions Beginners can do during 365 days of code of challenge
+This Repo consists of the following files :
+- .git
+- Count And Say.py
+- Leap Year.py
+- Max Min.py
+- Pick from both sides.py
+- Prime Sum.py
+- README.md
+- Reverse the String.py
+- Total Moves For Bishop.py
+- Verify Prime.py
+
+
+
+
+- --->This is a test repository created by @prateek271
+<br><br>
+---
+<br><br>### Features of the project:
+<br>
+
+
+- can be used for any file
